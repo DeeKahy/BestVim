@@ -15,12 +15,7 @@
    git clone https://github.com/DeeKahy/BestVim.git ~/.config/nvim
    ```
 
-3. **Remove Git Folder**:
-   ```bash
-   rm -rf ~/.config/nvim/.git
-   ```
-
-4. **Start Neovim**:
+3. **Start Neovim**:
    ```bash
    nvim
    ```
