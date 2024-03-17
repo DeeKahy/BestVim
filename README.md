@@ -1,5 +1,10 @@
 # BestVim Installation Instructions
 
+Changes from the main config:
+* Some extras enabled by default. Check lazyvim.json to see which.
+* Background is now transparrent so you can see the background of your terminal instead.
+* Completions are now on tab so that you can safely hit enter to make a newline and ignore any completions you might have. (use arrow keys to switch between completions)
+
 ## Linux/MacOS
 
 1. **Backup Neovim Files**:
