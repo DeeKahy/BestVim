@@ -4,10 +4,10 @@
 
 1. **Backup Neovim Files**:
    ```bash
-   mv ~/.config/nvim{,.bak}
-   mv ~/.local/share/nvim{,.bak} # Optional
-   mv ~/.local/state/nvim{,.bak} # Optional
-   mv ~/.cache/nvim{,.bak} # Optional
+   sudo mv ~/.config/nvim{,.bak}
+   sudo mv ~/.local/share/nvim{,.bak} # Optional
+   sudo mv ~/.local/state/nvim{,.bak} # Optional
+   sudo mv ~/.cache/nvim{,.bak} # Optional
    ```
 
 2. **Clone BestVim**:
